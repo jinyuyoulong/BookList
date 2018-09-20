@@ -13,7 +13,7 @@
 1. 书名，作者。附本页推荐理由定位
 2. 推荐理由
 ```
-- [《常识》托马斯·潘恩](https://github.com/jinyuyoulong/BookList/blob/master/常识-托马斯·潘恩.md)
+- [《常识》托马斯·潘恩](https://github.com/jinyuyoulong/BookList/blob/master/常识-托马斯.潘恩.md)
 - [《计算机程序的构造和解释》SICP](https://github.com/jinyuyoulong/BookList/blob/master/计算机程序的构造和解释-SICP.md)
 - [《程序员修炼之道》](https://github.com/jinyuyoulong/BookList/blob/master/程序员修炼之道.md)
 - [《人月神话》](https://github.com/jinyuyoulong/BookList/blob/master/人月神话.md)
