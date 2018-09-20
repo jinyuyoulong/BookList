@@ -13,15 +13,15 @@
 1. 书名，作者。附本页推荐理由定位
 2. 推荐理由
 ```
-- [《常识》托马斯·潘恩](#《常识》托马斯·潘恩)
-- [《计算机程序的构造和解释》SICP](#计算机程序的构造和解释》SICP)
-- [《程序员修炼之道》](#注)
-- [《人月神话》](#人月神话)
-- [《罗伯特议事规则》亨利·罗伯特](#罗伯特议事规则)
-- [《乌合之众》](#乌合之众) 
-- [《艺用人体解剖》](#艺用人体解剖) 
-- [《向大师学绘画》](#向大师学绘画)
-- [《范子计然》](https://github.com/jinyuyoulong/BookList/blob/master/%E8%8C%83%E5%AD%90%E8%AE%A1%E7%84%B6)
+- [《常识》托马斯·潘恩](https://github.com/jinyuyoulong/BookList/blob/master/常识-托马斯·潘恩.md)
+- [《计算机程序的构造和解释》SICP](https://github.com/jinyuyoulong/BookList/blob/master/计算机程序的构造和解释-SICP.md)
+- [《程序员修炼之道》](https://github.com/jinyuyoulong/BookList/blob/master/程序员修炼之道.md)
+- [《人月神话》](https://github.com/jinyuyoulong/BookList/blob/master/人月神话.md)
+- [《罗伯特议事规则》亨利·罗伯特](https://github.com/jinyuyoulong/BookList/blob/master/罗伯特议事规则.md)
+- [《乌合之众》](https://github.com/jinyuyoulong/BookList/blob/master/乌合之众.md) 
+- [《艺用人体解剖》](https://github.com/jinyuyoulong/BookList/blob/master/艺用人体解剖.md) 
+- [《向大师学绘画》](https://github.com/jinyuyoulong/BookList/blob/master/向大师学绘画.md)
+- [《范子计然》](https://github.com/jinyuyoulong/BookList/blob/master/范子计然.md)
 - 《黔滇川旅行记》民国时期底层人民生活现状
 - 《毛泽东选集》
 
