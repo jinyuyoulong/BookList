@@ -24,5 +24,12 @@
 - [《范子计然》](https://github.com/jinyuyoulong/BookList/blob/master/范子计然.md)
 - 《黔滇川旅行记》民国时期底层人民生活现状
 - 《毛泽东选集》
+- 《寻乌调查》毛泽东 记录了寻乌县详实的调查记录
+- 《毛泽东在一九二五年》
+- 《毛泽东传》作者金冲及
+- [《御批历代通鉴辑览》](https://github.com/jinyuyoulong/BookList/blob/master/御批历代通鉴辑览.md)
+- [《金瓶梅》](https://github.com/jinyuyoulong/BookList/blob/master/金瓶梅.md)
+- 《王阳明：一切心法》作者熊逸，视角比较理性
+- [《活法》稻盛和夫](https://github.com/jinyuyoulong/BookList/blob/master/活法.md)
 
 
