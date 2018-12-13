@@ -34,4 +34,4 @@
 - [《美国人的弑母文化》](https://book.douban.com/review/4617180/)
 - [《国富国穷》戴维·兰德斯](https://github.com/jinyuyoulong/BookList/blob/master/%E5%9B%BD%E5%AF%8C%E5%9B%BD%E7%A9%B7.md)
 
-
+- 《地缘看世界》预计2019年上半年出版 微信公众号：地缘看世界
