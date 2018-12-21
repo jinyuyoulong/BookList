@@ -36,5 +36,4 @@
 - 《地缘看世界》预计2019年上半年出版 微信公众号：地缘看世界
 - [胡希恕的《伤寒论讲座》](https://github.com/jinyuyoulong/BookList/blob/master/胡希恕的《伤寒论讲座》.md)
 - 《伤寒杂病论》
-- [《态度改变与社会影响》](https://github.com/jinyuyoulong/BookList/blob/master/态度改变与社会影响.md)
 
