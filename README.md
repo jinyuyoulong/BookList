@@ -38,4 +38,4 @@
 - [胡希恕的《伤寒论讲座》](https://github.com/jinyuyoulong/BookList/blob/master/胡希恕的《伤寒论讲座》.md)
 - 《伤寒杂病论》
 - [《如何有效阅读一本书》](https://github.com/jinyuyoulong/BookList/blob/master/如何有效阅读一本书.md)
-
+- [《海龟交易法则》](https://github.com/jinyuyoulong/BookList/blob/master/海龟交易法则.md)
