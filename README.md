@@ -39,3 +39,4 @@
 - 《伤寒杂病论》
 - [《如何有效阅读一本书》](https://github.com/jinyuyoulong/BookList/blob/master/如何有效阅读一本书.md)
 - [《海龟交易法则》](https://github.com/jinyuyoulong/BookList/blob/master/海龟交易法则.md)
+- [《墨菲定律》](https://github.com/jinyuyoulong/BookList/blob/master/墨菲定律.md)
