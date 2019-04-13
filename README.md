@@ -33,9 +33,12 @@
 - [《活法》稻盛和夫](https://github.com/jinyuyoulong/BookList/blob/master/活法.md)
 - [《美国人的弑母文化》](https://book.douban.com/review/4617180/)
 - [《国富国穷》戴维·兰德斯](https://github.com/jinyuyoulong/BookList/blob/master/%E5%9B%BD%E5%AF%8C%E5%9B%BD%E7%A9%B7.md)
+- [如何阅读一本书]
 - 《地缘看世界》预计2019年上半年出版 微信公众号：地缘看世界
 - [胡希恕的《伤寒论讲座》](https://github.com/jinyuyoulong/BookList/blob/master/胡希恕的《伤寒论讲座》.md)
 - 《伤寒杂病论》
-- [《雪中悍刀行》](https://github.com/jinyuyoulong/BookList/blob/master/《雪中悍刀行》.md)
+- [《如何有效阅读一本书》](https://github.com/jinyuyoulong/BookList/blob/master/如何有效阅读一本书.md)
+- [《海龟交易法则》](https://github.com/jinyuyoulong/BookList/blob/master/海龟交易法则.md)
+- [《墨菲定律》](https://github.com/jinyuyoulong/BookList/blob/master/墨菲定律.md)
+-  [《雪中悍刀行》](https://github.com/jinyuyoulong/BookList/blob/master/《雪中悍刀行》.md)
 - [经典网文集结目录](https://github.com/jinyuyoulong/BookList/blob/master/经典网文集结目录.md)
-
