@@ -68,6 +68,7 @@
 - [《墨菲定律》](https://github.com/jinyuyoulong/BookList/blob/master/墨菲定律.md)
 
 - [Affiliate marketing 完全指南](https://github.com/jinyuyoulong/BookList/blob/master/Affiliate marketing 完全指南.md)
+- [遇见成长的自己](https://github.com/jinyuyoulong/BookList/blob/master/遇见成长的自己.md)
 
 - [《雪中悍刀行》](https://github.com/jinyuyoulong/BookList/blob/master/《雪中悍刀行》.md)
 
