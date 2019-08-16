@@ -73,3 +73,5 @@
 - [《雪中悍刀行》](https://github.com/jinyuyoulong/BookList/blob/master/《雪中悍刀行》.md)
 
 - [经典网文集结目录](https://github.com/jinyuyoulong/BookList/blob/master/经典网文集结目录.md)
+
+- [汇编语言-王爽](https://github.com/jinyuyoulong/BookList/blob/master/汇编语言-王爽.md)
