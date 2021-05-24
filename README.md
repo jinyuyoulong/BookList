@@ -46,6 +46,6 @@
 - [经典网文集结目录](https://github.com/jinyuyoulong/BookList/blob/master/经典网文集结目录.md)
 - [汇编语言-王爽](https://github.com/jinyuyoulong/BookList/blob/master/汇编语言-王爽.md)
 - [资本论](https://github.com/jinyuyoulong/BookList/blob/master/资本论.md)
-- 你为什么是穷人
-- 影响力 这两本书对思维的快速打开，和对穷人的本质原因分析的很透彻，观点都是大多数人并没有意识到的
+- 《你为什么是穷人》
+- 《影响力》 你为什么是穷人+影响力 这两本书对思维的快速打开，和对穷人的本质原因分析的很透彻，观点都是大多数人并没有意识到的
 - 《少有人走的路》这本书里学到**如何面对和处理人生的困境和痛苦**。领悟到了**人生是一个面对问题并解决问题的过程。**
